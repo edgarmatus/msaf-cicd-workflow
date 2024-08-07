@@ -125,7 +125,6 @@ dmypy.json
 # Azure Functions artifacts
 bin
 obj
-local.settings.json
 
 # Azurite artifacts
 __blobstorage__
